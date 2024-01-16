@@ -1,3 +1,4 @@
 # Chat-App
-Trying to be better everyday
+Trying to be better everyday.
+<br>
 By-RoyLilesh
